@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(246, 238, 238);
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(34, 100, 145);
+}
+
+.inp{
+    font-size: 1.5em;
+    
+}
+
+
+#button{
+    font-size: 2em;
+    border: none;
+    background-color: rgb(47, 52, 50);
+    color: aliceblue;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#submitContainer{
+    
+    text-align: center;
+}
+
+#task1 label{
+    margin-left: 10px;
+    color: rebeccapurple;
+    border-radius: 50%;
+}
+
+#task1 input[type = "checkbox"] {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+
+
+
+
